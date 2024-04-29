@@ -8,3 +8,9 @@
 #### Muhammad Muhammad Yakubu _  muhammadmuhammadyakubu0@gmail.com <br>
 #### Jean Francois De Gauss Uwomubayo _  udguwa123@gmail.com. 
 
+##### Credits: 
+##### The following python libraries are used in the implementation of the project
+matplotlib
+fredapi
+openmeteo
+pgmpy
